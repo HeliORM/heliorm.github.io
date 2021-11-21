@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HeliORM is a code-first object-relational model for accessing SQL data from Java.
   It allows compile time type safe SQL queries from Java code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://heliorm.com"
 twitter_username: GideonLeGrange
 github_username:  GideonLeGrange
 
