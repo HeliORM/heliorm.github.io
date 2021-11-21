@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# HeliORM
 [![Java CI with Maven](https://github.com/HeliORM/HeliORM/actions/workflows/maven.yml/badge.svg)](https://github.com/HeliORM/HeliORM/actions/workflows/maven.yml)
 
 HeliORM is a **code-first** object-relational model for accessing SQL data from Java. It allows **compile time type safe** SQL queries from Java code.
