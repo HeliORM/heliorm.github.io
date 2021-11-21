@@ -29,9 +29,11 @@ twitter_username: GideonLeGrange
 github_username:  GideonLeGrange
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
