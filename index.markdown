@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
 [![Java CI with Maven](https://github.com/HeliORM/HeliORM/actions/workflows/maven.yml/badge.svg)](https://github.com/HeliORM/HeliORM/actions/workflows/maven.yml)

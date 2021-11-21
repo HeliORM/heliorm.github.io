@@ -32,8 +32,11 @@ github_username:  GideonLeGrange
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   - jemoji
 
+# midnight theme specific
+show_downloads: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
